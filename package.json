@@ -1,0 +1,8 @@
+{
+  "name": "workspace-fast",
+  "private": true,
+  "workspaces": [
+    "packages/**",
+    "examples/**"
+  ]
+}
